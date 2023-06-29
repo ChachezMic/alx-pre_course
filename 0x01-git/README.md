@@ -1,1 +1,2 @@
-exellent repo
+#!/bin/bash
+echo "School" bash/school
